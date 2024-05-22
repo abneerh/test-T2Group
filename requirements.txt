@@ -1,0 +1,10 @@
+python-decouple
+selenium
+black
+pandas
+webdriver-manager
+lxml
+openpyxl
+xlsxwriter
+pytest
+pytest-mock
